@@ -17,3 +17,4 @@
 
 *.md
 design/*.jpg
+.gitignore
