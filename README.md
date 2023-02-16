@@ -1,2 +1,2 @@
 # product-preview-card
-This is a simple product preview card component.
+Frontend Mentor Challenge: product preview card component.
